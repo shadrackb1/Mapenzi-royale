@@ -1,10 +1,12 @@
-﻿# Mapenzi royale
+# Mapenzi Royale
 
-Mapenzi Royale | Royal Pilau & Biryani
+Pilau and Biryani ordering site, Nakuru.
+
+**Status:** brand site
 
 ## Stack
 
-react Â· vite Â· typescript
+React, TypeScript, Vite
 
 ## Run locally
 
@@ -13,4 +15,4 @@ react Â· vite Â· typescript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
